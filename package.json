@@ -11,8 +11,13 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
+  "dependencies": {
+    "@iconify-json/simple-icons": "^1.1.87",
+    "@nuxt/ui-pro": "^0.7.0"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^2.6.2",
+    "@nuxt/ui": "^2.12.0",
     "eslint": "^8.56.0",
     "nuxt": "^3.9.1",
     "vue": "^3.4.10",
